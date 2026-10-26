@@ -20,6 +20,7 @@ __pycache__/
 
 # Environment Variables
 .env*.local
+.env
 
 # System / IDE
 .DS_Store
